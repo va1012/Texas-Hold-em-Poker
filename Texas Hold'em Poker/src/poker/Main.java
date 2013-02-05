@@ -1,6 +1,6 @@
 package poker;
 
-public class Main {
+public abstract class Main {
 
-	System.out.println("Costas sucks");
+	public abstract void haha();
 }
